@@ -1,0 +1,38 @@
+.imagem {
+    margin: 15px;
+    width: 100px;
+}
+
+#centraliza {
+    background: #00BFFF;
+    width: 100%;
+    margin: 0;
+}
+
+.fonte {
+    font-size: 150px;
+}
+
+.notes {
+    background-color: #ffdddd;
+    border-left: 6px solid #f44336;
+    width: 250px;
+    height: 340px;
+    float: left;
+}
+
+.titulo {
+    width: 200px;
+    height: 50px;
+}
+
+.texto {
+    width: 200px;
+    height: 150px;
+}
+
+.botao {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 15px;
+}
