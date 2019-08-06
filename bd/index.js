@@ -16,7 +16,7 @@ client.connect((err) => {
         client.end();
     } else {
         console.log("***********************************");
-        console.log("* Confirma started in port: 3000  *\n* Database: " + client.database + " is connected *")
+        console.log("* Mural started in port: 3000  *\ n* Database: " + client.database + " is connected *")
         console.log("***********************************\n\n");
     }
 })
